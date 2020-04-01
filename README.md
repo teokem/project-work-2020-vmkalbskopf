@@ -2,6 +2,7 @@
 ## Abstract
 This is the notebook for the analysis of differential expression data from birds infected with Avian Malaria. The purpose is to identify how the significant genes lie on the distribution of fold change across two time points. 
 
+## Instructions
 In order to run this notebook, download this repo from github (export it or clone it), you can install all the dependencies manually, or set up an environment using [conda](https://docs.anaconda.com/anaconda/install/)
 
 Extract the tarball if you downloaded, but otherwise change directory to the new folder.
