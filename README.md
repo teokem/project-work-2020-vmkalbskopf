@@ -1,4 +1,4 @@
-# project-work-2020-vmkalbskopf
+# FoldMal
 ## Abstract
 This is the notebook for the analysis of differential expression data from birds infected with Avian Malaria. The purpose is to identify how the significant genes lie on the distribution of fold change across two time points. 
 
