@@ -14,8 +14,8 @@ The dependencies are:
 
 Once you have conda installed, you can set up the environment with all of those dependencies:
 
-`conda env create -f foldmal_env.yml`
-`conda activate foldmal_env`
+`conda env create -f foldmal_env.yml
+conda activate foldmal_env`
 
 To run the notebook, type
 
