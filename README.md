@@ -11,7 +11,7 @@ The dependencies are:
 2. matplotlib - plotting
 3. pandas - read and manipulate tabulated data
 4. numpy - numerical operations on tabulated data
-5. jupyter
+5. jupyter - Runs the notebook
 
 Once you have conda installed, you can set up the environment with all of those dependencies:
 
